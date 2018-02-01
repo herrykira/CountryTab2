@@ -1,0 +1,12 @@
+<resources>
+
+    <!--Base application theme. -->
+    <!--NoActionBar: no ActionBar means no the top of screen-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#629</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#f00</item>
+    </style>
+
+</resources>
